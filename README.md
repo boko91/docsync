@@ -16,10 +16,8 @@ The optimal tool will do the following:
 The human input into documentation remains the following:
 
 1. Tagging documents with appropriate code base IDs
-1. Evaluating whether changes impact the functionality of other tools (and therefore requires document update)
-    * This is a labor-intensive step
-1. Translate and sanity-check the changes into the documentation
-    * This is a labor-intensive step
+1. **Labor Intensive:** Evaluating whether changes impact the functionality of other tools (and therefore requires document update)
+1. **Labor Intensive:** Translate and sanity-check the changes into the documentation
 1. Publish the changes in a clean, search-friendly environment
 1. Create and diagram maps of compiled docs that refer to single-source modules
 1. Feed continued optimizations into the publishing tool
