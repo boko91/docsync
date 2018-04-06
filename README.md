@@ -5,6 +5,8 @@ Create a [Swagger](https://swagger.io/)-type syncronization workflow for maintai
 
 Non-API software companies may develop API-like modules (or, internal APIs) that require syncronized and up-to-date documentation for teams to be able to collaborate effectively.
 
+Open API Initiative is an industry movement to standardize practices to be vendor-neutral. In a smaller environment, this tool would be a company movement to standardize practices to be team-neutral.
+
 The tool will do the following:
 
 1. Allow user to tag documents with code base ID
