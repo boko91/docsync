@@ -19,8 +19,8 @@ The following human tasks remain:
 1. **LABOR INTENSIVE:** Evaluating whether changes impact the functionality of other tools (and therefore requires document update)
 1. **LABOR INTENSIVE:** Transforming the code changes into documentation
 1. **LABOR INTENSIVE:** Sanity-checking the code changes to make sure it is functionally accurate
-1. Publish the changes in a clean, search-friendly environment
-1. Create and diagram maps of compiled docs that refer to single-source modules
-1. Feed continued optimizations into the publishing tool
+1. Publishing the changes in a clean, search-friendly environment
+1. Creating and diagramming maps of compiled docs that refer to single-source modules
+1. Feeding continued optimizations into the publishing tool
 
 Also consider how to auto-generate reference API docs in the form of a fillable inventory of parts.
