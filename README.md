@@ -5,7 +5,7 @@ Create a [Swagger](https://swagger.io/)-type syncronization workflow for maintai
 
 Non-API software companies may develop API-like modules (or, internal APIs) that require syncronized and up-to-date documentation for teams to be able to collaborate effectively.
 
-The optimal tool will do the following:
+The tool will do the following:
 
 1. Allow user to tag documents with code base ID
 1. Log changes to code base as they occur
@@ -13,11 +13,12 @@ The optimal tool will do the following:
 1. Allow developer to add comments about larger architectural design changes
 1. Compile a list of documents affected by code base
 
-The human input into documentation remains the following:
+The following human tasks remain:
 
 1. Tagging documents with appropriate code base IDs
 1. **LABOR INTENSIVE:** Evaluating whether changes impact the functionality of other tools (and therefore requires document update)
-1. **LABOR INTENSIVE:** Translate and sanity-check the changes into the documentation
+1. **LABOR INTENSIVE:** Transforming the code changes into documentation
+1. **LABOR INTENSIVE:** Sanity-checking the code changes to make sure it is functionally accurate
 1. Publish the changes in a clean, search-friendly environment
 1. Create and diagram maps of compiled docs that refer to single-source modules
 1. Feed continued optimizations into the publishing tool
