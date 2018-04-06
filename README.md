@@ -25,4 +25,4 @@ The following human tasks remain:
 1. Creating and diagramming maps of compiled docs that refer to single-source modules
 1. Feeding continued optimizations into the publishing tool
 
-Also consider how to auto-generate reference API docs in the form of a fillable inventory of parts.
+Also consider how to auto-generate templated API definition files as a fillable inventory form.
