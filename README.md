@@ -3,6 +3,8 @@ Logging, notification and digest bot for syncing docs with code
 
 Create a [Swagger](https://swagger.io/)-type syncronization workflow for maintaining a current and rigorous internal knowledgebase.
 
+Documentation example: http://editor2.swagger.io/#!/
+
 Non-API software companies may develop API-like modules (or, internal APIs) that require syncronized and up-to-date documentation for teams to be able to collaborate effectively.
 
 Open API Initiative is an industry movement to standardize practices to be vendor-neutral. In a smaller environment, this tool would be a company movement to standardize practices to be team-neutral.
